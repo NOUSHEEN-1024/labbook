@@ -79,6 +79,8 @@ public class J3_1 {
 
 			System.out.println("Updating from github in branch");
 
+			System.out.println("Monday Sessions");
+
  
 		
 
